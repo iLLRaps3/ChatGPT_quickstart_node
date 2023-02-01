@@ -30,8 +30,8 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
    ```powershell
    $ copy .env.example .env
    ```
-6. Add your [API key](https://beta.openai.com/account/api-keys) to the newly created `.env` file
-
+6. Add your [API key](htts://beta.openai.com/account/api-keys) to the newly created `.env` file
+   p
 7. Run the app
 
    ```bash
